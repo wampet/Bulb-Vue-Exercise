@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: rgb(158, 157, 157);
+
+}
+#everything{
+    margin-left: 50%;
+    margin-right:50%;
+}
+
+.container{
+    text-align: center;
+}
+button{
+    width: 400px;
+    padding: 15px;
+    font-size: 20px;
+}
+.bulb{
+    height: 100px;
+    width: 100px;
+    margin: 0 auto;
+}
